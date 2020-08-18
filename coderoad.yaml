@@ -9,7 +9,7 @@ config:
     commands:
       - pip3 install -r requirements.txt
   repo: 
-    uri: https://github.com/shmck/coderoad-python-test
+    uri: https://github.com/urbanchr/coderoad-python-test.git
     branch: v0.1.1
 levels:
   - id: '1'
