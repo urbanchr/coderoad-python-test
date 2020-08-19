@@ -18,4 +18,10 @@ levels:
         setup:
           files:
             - src/example.py
+  - id: '2'
+    steps:
+      - id: '2.1'
+        setup:
+          files:
+            - src/example.py	    
           
