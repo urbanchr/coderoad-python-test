@@ -22,10 +22,6 @@ def add(*args):
 Complete the `add` function. It should be able to add one or more numbers together. 
 For example: `add(1) = 1`, `add(1, 2) = 3`, and `add(1, 2, 3) = 6`.
 
-#### HINTS
-
-- This is a hint to help people through the test
-- Second hint for 1.1, don't worry if the hints don't show up yet
 
 ## 2. Add DOCTYPE
 
