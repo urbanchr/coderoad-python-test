@@ -43,11 +43,27 @@
             ]
           },
           "content": "Complete the `add` function. It should be able to add one or more numbers together. \nFor example: `add(1) = 1`, `add(1, 2) = 3`, and `add(1, 2, 3) = 6`.",
+          "hints": [
+            "This is a hint to help people through the test",
+            "Second hint for 1.1, don't worry if the hints don't show up yet"
+          ],
           "solution": {
             "commits": [
               "3c77a83d44f0aabe7f72152dfda117e7ac25a5b2"
             ]
           }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Add DOCTYPE",
+      "summary": "Add a DOCTYPE to an HTML file",
+      "content": "HTML files should have a `DOCTYPE`. You can add one at the top of the `index.html` file like this: `<!DOCTYPE html>`.",
+      "steps": [
+        {
+          "id": "2.1",
+          "content": "Add the DOCTYPE"
         }
       ]
     }
