@@ -59,6 +59,12 @@
       "steps": [
         {
           "id": "2.1",
+          "setup": {
+            "files": [
+              "src/example.py"
+            ],
+            "commits": []
+          },
           "content": "Add the DOCTYPE"
         }
       ]
